@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Bird Berry</h1>
   <p>
-    test project for Bird Berry
+    test project for Bird Berry (pixel perfect)
   </p>
   <p>Author: Sergey Kovalenko <br> E-mail: rikdeadok@gmail.com</p>
 </div>
