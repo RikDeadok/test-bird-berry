@@ -1,22 +1,22 @@
 @font-face {
   font-family: 'Yandex Sans Display';
-  src: url('/fonts/YandexSansDisplay-Bold.woff') format('woff');
+  src: url('../../fonts/YandexSansDisplay-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Yandex Sans Text';
-  src: url('/fonts/YandexSansText-Regular.woff') format('woff');
+  src: url('../../fonts/YandexSansText-Regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Yandex Sans Text';
-  src: url('/fonts/YandexSansText-Light.woff') format('woff');
+  src: url('../../fonts/YandexSansText-Light.woff') format('woff');
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
   font-family: 'Bebas';
-  src: url('/fonts/Bebas.woff') format('woff');
+  src: url('../../fonts/Bebas.woff') format('woff');
 }
